@@ -86,3 +86,4 @@ if __name__ == "__main__":
             subprocess.Popen([chrome_path])
 
 
+#this is under development if you feel that it can be improved please feel free to reach out
