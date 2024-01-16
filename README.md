@@ -1,2 +1,2 @@
-# python-projects
-this is the repo which is created for the learning of python in implementation
+# this repository is created to showcase the python implementation
+
